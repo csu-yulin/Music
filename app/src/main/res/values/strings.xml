@@ -1,16 +1,16 @@
 <resources>
-    <string name="app_name">音乐湖</string>
+    <string name="app_name">悦听</string>
     <string name="sure">确定</string>
     <string name="open">打开</string>
     <string name="close">关闭</string>
     <!--欢迎界面-->
     <string name="permission_hint">软件必须获取相关权限</string>
-    <string name="welcome_tips">听我想听的歌</string>
-    <string name="welcome_tips_1">音乐湖</string>
+    <string name="welcome_tips">随时随地，悦动心声</string>
+    <string name="welcome_tips_1">悦听</string>
 
 
     <!--主界面-->
-    <string name="my">我的</string>
+    <string name="my">首页</string>
     <string name="discover">发现</string>
     <string name="charts">排行榜</string>
     <string name="mv">MV</string>
@@ -21,7 +21,7 @@
     <string name="logout_hint">退出登录/关闭</string>
     <string name="action_settings">设置</string>
     <string name="header_author_url">个性标签</string>
-    <string name="widget_standard">音乐湖</string>
+    <string name="widget_standard">悦听</string>
     <string name="warning_add_playlist">暂不支持添加本地音乐和百度音乐</string>
     <string name="add_un_support_local">暂不支持添加本地歌曲到在线歌单</string>
     <string name="warning_network">暂不支持添加本地音乐和百度音乐</string>
@@ -42,8 +42,8 @@
     <string name="exit">关闭</string>
 
     <!--本地音乐-->
-    <string name="item_local">本地歌曲</string>
-    <string name="item_history">播放历史</string>
+    <string name="item_local">本地音乐</string>
+    <string name="item_history">最近播放</string>
     <string name="item_favorite">我的收藏</string>
     <string name="item_download">下载</string>
     <string name="item_cached">缓存下载</string>
@@ -226,7 +226,7 @@
     <string name="count_down_time">定时关闭播放</string>
 
     <!--about-->
-    <string name="title_about">关于音乐湖</string>
+    <string name="title_about">关于悦听</string>
     <string name="version">版本号</string>
     <string name="author">作者</string>
     <string name="about_des">描述</string>
@@ -353,7 +353,7 @@
     <string name="dd">暂无歌词</string>
     <string name="recently_update">最近更新：%1$s</string>
     <string name="float_settings">请在设置中，打开悬浮窗设置</string>
-    <string name="about_card1_message">嗨! 欢迎使用音乐湖！</string>
+    <string name="about_card1_message">嗨! 欢迎使用悦听！</string>
     <string name="about_title">如果你喜欢这个应用，给个Star吧!</string>
     <string name="about_git_hub">源代码(GitHub)</string>
     <string name="about_pc">PC端</string>
@@ -395,7 +395,7 @@
     <string name="float_window_is_refused">悬浮窗权限已被拒绝！</string>
     <string name="local_title">本地</string>
     <string name="album_title">专辑</string>
-    <string name="artist_title">艺术家</string>
+    <string name="artist_title">歌手</string>
     <string name="folder_title">文件夹</string>
     <string name="song_comment_title">歌曲评论</string>
     <string name="song_comment_new">最新评论</string>
@@ -424,7 +424,7 @@
     <string name="weibosdk_demo_toast_auth_canceled">登录已取消</string>
     <string name="user_join">下线</string>
     <string name="user_leave">上线</string>
-    <string name="chat_gg">有什么问题不能及时反馈？请点击链接加入群聊【音乐湖交流群】：https://jq.qq.com/?_wv=1027&amp;k=5oF9xQv</string>
+    <string name="chat_gg">有什么问题不能及时反馈？请点击链接加入群聊【悦听交流群】：https://jq.qq.com/?_wv=1027&amp;k=5oF9xQv</string>
     <string name="search_filter_title">在线音乐搜索方式</string>
     <string name="search_filter_summary">过滤不同平台的音乐源</string>
     <string name="search_filter_qq">qq音乐</string>
@@ -474,7 +474,7 @@
     <string name="artists">艺术家</string>
     <string name="recommend">推荐</string>
     <string name="pref_title_netease">网易云音乐API</string>
-    <string name="pref_title_music_api">音乐湖后台API</string>
+    <string name="pref_title_music_api">悦听后台API</string>
     <string name="settings_restart_app">重启App后生效</string>
     <string name="recommend_song">推荐歌曲</string>
     <string name="playlist_square">歌单广场</string>
