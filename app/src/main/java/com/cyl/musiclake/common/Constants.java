@@ -142,7 +142,7 @@ public class Constants {
     /**
      * QQ音乐Api*************************************************
      */
-    public static final String BASE_URL_QQ_MUSIC_URL = "https://u.y.qq.com";
+    public static final String BASE_URL_QQ_MUSIC_URL = "https://api.7digital.com/1.2/";
 
     /**
      * 虾米音乐Api*************************************************

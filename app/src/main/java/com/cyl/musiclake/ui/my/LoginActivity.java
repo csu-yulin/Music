@@ -93,23 +93,23 @@ public class LoginActivity extends BaseActivity<LoginPresenter> implements Login
         return super.onOptionsItemSelected(item);
     }
 
-    @OnClick(R.id.wbLogin)
-    public void wbLogin() {
-        if (mWBAPI != null) {
-            mWBAPI.authorize(new SelfWbAuthListener());
-        }
-    }
+//    @OnClick(R.id.wbLogin)
+//    public void wbLogin() {
+//        if (mWBAPI != null) {
+//            mWBAPI.authorize(new SelfWbAuthListener());
+//        }
+//    }
 
     @OnClick(R.id.qqlogin)
     public void tologin() {
         mPresenter.loginByQQ(this);
     }
 
-    @OnClick(R.id.githubLogin)
-    public void toGihubLogin() {
-        String auth = "https://github.com/login/oauth/authorize?client_id=" + Constants.GITHUB_CLIENT_ID + "&redirect_uri=" + Constants.GITHUB_REDIRECT_URI + "&state=" + BuildConfig.APPLICATION_ID;
-        Tools.INSTANCE.openBrowser(this, auth);
-    }
+//    @OnClick(R.id.githubLogin)
+//    public void toGihubLogin() {
+//        String auth = "https://github.com/login/oauth/authorize?client_id=" + Constants.GITHUB_CLIENT_ID + "&redirect_uri=" + Constants.GITHUB_REDIRECT_URI + "&state=" + BuildConfig.APPLICATION_ID;
+//        Tools.INSTANCE.openBrowser(this, auth);
+//    }
 
     @Override
     protected void onNewIntent(Intent intent) {
