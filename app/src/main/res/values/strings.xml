@@ -13,6 +13,8 @@
     <string name="my">首页</string>
     <string name="discover">发现</string>
     <string name="charts">排行榜</string>
+    <string name="qqCharts">qq音乐</string>
+    <string name="neteaseChart">网易云音乐</string>
     <string name="mv">MV</string>
     <string name="video_title">视频</string>
 

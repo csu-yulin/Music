@@ -85,8 +85,8 @@ class MyMusicFragment : BaseFragment<MyMusicPresenter>(), MyMusicContract.View {
 
         //初始化歌单Tab
         playlistTab.addTab(playlistTab.newTab().setText("本地歌单").setTag(Constants.PLAYLIST_LOCAL_ID))
-        playlistTab.addTab(playlistTab.newTab().setText("在线歌单").setTag(Constants.PLAYLIST_CUSTOM_ID))
-        playlistTab.addTab(playlistTab.newTab().setText("网易歌单").setTag(Constants.PLAYLIST_WY_ID))
+//        playlistTab.addTab(playlistTab.newTab().setText("在线歌单").setTag(Constants.PLAYLIST_CUSTOM_ID))
+//        playlistTab.addTab(playlistTab.newTab().setText("网易歌单").setTag(Constants.PLAYLIST_WY_ID))
         playlistTab.addOnTabSelectedListener(object : TabLayout.BaseOnTabSelectedListener<TabLayout.Tab> {
             override fun onTabReselected(p0: TabLayout.Tab?) {
 

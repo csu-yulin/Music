@@ -11,6 +11,7 @@ import androidx.viewpager.widget.ViewPager;
 import com.cyl.musiclake.R;
 import com.cyl.musiclake.ui.base.BaseFragment;
 import com.cyl.musiclake.ui.music.charts.fragment.ChartsDetailFragment;
+import com.cyl.musiclake.ui.music.charts.fragment.NeteaseChartsDetailFragment;
 import com.cyl.musiclake.ui.music.discover.DiscoverFragment;
 import com.cyl.musiclake.ui.music.local.fragment.FoldersFragment;
 import com.cyl.musiclake.ui.music.my.MyMusicFragment;
@@ -101,7 +102,8 @@ public class MainFragment extends BaseFragment {
         PageAdapter mAdapter = new PageAdapter(getChildFragmentManager());
         mAdapter.addFragment(MyMusicFragment.Companion.newInstance(), getContext().getString(R.string.my));
 //        mAdapter.addFragment(DiscoverFragment.Companion.newInstance(), getContext().getString(R.string.discover));
-        mAdapter.addFragment(ChartsDetailFragment.Companion.newInstance(), getContext().getString(R.string.charts));
+        mAdapter.addFragment(ChartsDetailFragment.Companion.newInstance(), getContext().getString(R.string.qqCharts));
+        mAdapter.addFragment(NeteaseChartsDetailFragment.Companion.newInstance(), getContext().getString(R.string.netease));
 //        mAdapter.addFragment(VideoSquareFragment.Companion.newInstance(), getContext().getString(R.string.video_title));
 //        mAdapter.addFragment(FoldersFragment.Companion.newInstance(), getString(R.string.folder_title));
         mViewPager.setAdapter(mAdapter);

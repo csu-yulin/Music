@@ -1,7 +1,6 @@
 package com.cyl.musiclake.ui.music.charts.fragment
 
 import android.content.Intent
-import android.view.View
 import androidx.recyclerview.widget.GridLayoutManager
 import com.cyl.musiclake.R
 import com.cyl.musiclake.bean.Playlist
@@ -22,7 +21,7 @@ import kotlinx.android.synthetic.main.fragment_charts.*
  * 邮箱：643872807@qq.com
  * 版本：2.5
  */
-class ChartsDetailFragment : BaseLazyFragment<OnlinePlaylistPresenter>(), OnlinePlaylistContract.View {
+class NeteaseChartsDetailFragment : BaseLazyFragment<OnlinePlaylistPresenter>(), OnlinePlaylistContract.View {
     //适配器
     private var mTopListAdapter: ChartsAdapter? = null
     private var chartsType: String = Constants.BAIDU
@@ -35,16 +34,16 @@ class ChartsDetailFragment : BaseLazyFragment<OnlinePlaylistPresenter>(), Online
      * 显示网易云榜单
      */
     override fun showNeteaseCharts(charts: MutableList<GroupItemData>?) {
-//        hideLoading()
-//        charts?.let { mTopListAdapter?.addNewData(it) }
+        hideLoading()
+        charts?.let { mTopListAdapter?.addNewData(it) }
     }
 
     /**
      * 显示QQ榜单
      */
     override fun showQQCharts(charts: MutableList<GroupItemData>?) {
-        hideLoading()
-        charts?.let { mTopListAdapter?.addNewData(it) }
+//        hideLoading()
+//        charts?.let { mTopListAdapter?.addNewData(it) }
     }
 
     override fun showBaiduCharts(charts: MutableList<GroupItemData>?) {
@@ -114,8 +113,8 @@ class ChartsDetailFragment : BaseLazyFragment<OnlinePlaylistPresenter>(), Online
 
     companion object {
         private val TAG = "ChartsDetailFragment"
-        fun newInstance(): ChartsDetailFragment {
-            return ChartsDetailFragment()
+        fun newInstance(): NeteaseChartsDetailFragment {
+            return NeteaseChartsDetailFragment()
         }
     }
 

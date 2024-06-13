@@ -7,6 +7,7 @@ import com.cyl.musiclake.di.module.FragmentModule;
 import com.cyl.musiclake.di.scope.ContextLife;
 import com.cyl.musiclake.di.scope.PerFragment;
 import com.cyl.musiclake.ui.music.artist.fragment.ArtistInfoFragment;
+import com.cyl.musiclake.ui.music.charts.fragment.NeteaseChartsDetailFragment;
 import com.cyl.musiclake.ui.music.discover.NewDiscoverFragment;
 import com.cyl.musiclake.ui.music.discover.artist.QQArtistListFragment;
 import com.cyl.musiclake.ui.music.discover.DiscoverFragment;
@@ -89,6 +90,8 @@ public interface FragmentComponent {
     void inject(MvListFragment mvListFragment);
 
     void inject(@NotNull ChartsDetailFragment chartsDetailFragment);
+
+    void inject(@NotNull NeteaseChartsDetailFragment neteaseChartsDetailFragment);
 
     void inject(@NotNull QQArtistListFragment QQArtistListFragment);
 

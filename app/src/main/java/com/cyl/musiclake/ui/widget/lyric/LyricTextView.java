@@ -249,7 +249,7 @@ public class LyricTextView extends View {
             LogUtil.e(TAG, mLineCount + "===" + mLyricInfo.songLines.toString());
         } else {
             hasLyric = false;
-            mDefaultHint = "音乐湖，暂无歌词";
+            mDefaultHint = "悦听,暂无歌词";
         }
         invalidateView();
     }
