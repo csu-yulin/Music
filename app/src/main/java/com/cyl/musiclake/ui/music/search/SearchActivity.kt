@@ -29,9 +29,6 @@ import kotlinx.android.synthetic.main.toolbar_search_layout.*
 import java.util.*
 
 /**
- * 作者：yonglong on 2016/9/15 12:32
- * 邮箱：643872807@qq.com
- * 版本：2.5
  * 描述:搜索功能
  */
 class SearchActivity : BaseActivity<SearchPresenter>(), SearchContract.View {

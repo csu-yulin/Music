@@ -20,9 +20,6 @@ import kotlinx.android.synthetic.main.frag_artist_detail.viewPager
 import java.util.*
 
 /**
- * 作者：yonglong on 2016/8/24 10:43
- * 邮箱：643872807@qq.com
- * 版本：2.5
  */
 class VideoDetailActivity : BaseActivity<VideoDetailPresenter?>(), VideoDetailContract.View {
     private val mvInfoDetails: List<MvInfoDetail> = ArrayList()

@@ -36,7 +36,6 @@ import retrofit2.Retrofit;
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 
 /**
- * Created by yonglong on 2017/9/11.
  */
 
 public class ApiManager {

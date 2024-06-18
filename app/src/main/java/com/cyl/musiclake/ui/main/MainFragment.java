@@ -20,11 +20,7 @@ import com.google.android.material.tabs.TabLayout;
 
 import butterknife.BindView;
 
-/**
- * 作者：yonglong on 2016/8/8 17:47
- * 邮箱：643872807@qq.com
- * 版本：2.5
- */
+
 @SuppressWarnings("ConstantConditions")
 public class MainFragment extends BaseFragment {
     @BindView(R.id.m_viewpager)

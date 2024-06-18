@@ -10,7 +10,7 @@ import androidx.media.AudioAttributesCompat
 import com.google.android.exoplayer2.SimpleExoPlayer
 
 /**
- * Created by cyl on 2018/6/4.
+ *
  */
 class AudioFocusWrapper(private val audioAttributes: AudioAttributesCompat,
                         private val audioManager: AudioManager,

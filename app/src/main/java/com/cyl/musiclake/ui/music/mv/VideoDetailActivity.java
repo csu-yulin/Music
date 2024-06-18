@@ -39,9 +39,6 @@
 //import butterknife.BindView;
 //
 ///**
-// * 作者：yonglong on 2016/8/24 10:43
-// * 邮箱：643872807@qq.com
-// * 版本：2.5
 // */
 //@SuppressWarnings("ConstantConditions")
 //public class VideoDetailActivity extends BaseActivity<MvDetailPresenter> implements MvDetailContract.View {

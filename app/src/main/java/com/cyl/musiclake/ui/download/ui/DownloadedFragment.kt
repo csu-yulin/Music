@@ -26,9 +26,7 @@ import com.cyl.musiclake.event.PlaylistEvent
 import kotlinx.android.synthetic.main.fragment_recyclerview_notoolbar.*
 import org.greenrobot.eventbus.EventBus
 
-/**
- * Created by yonglong on 2016/11/26.
- */
+
 
 class DownloadedFragment : BaseFragment<DownloadPresenter>(), DownloadContract.View {
 

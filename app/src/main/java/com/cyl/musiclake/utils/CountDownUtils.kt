@@ -7,7 +7,6 @@ import com.cyl.musiclake.player.PlayManager
 /**
  * Des    :倒计时工具类
  * Author : master.
- * Date   : 2018/9/15 .
  */
 object CountDownUtils {
     private var countDown: CountDownTimer? = null

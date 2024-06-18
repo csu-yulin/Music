@@ -4,11 +4,7 @@ import android.content.Context;
 
 import com.trello.rxlifecycle2.LifecycleTransformer;
 
-/**
- * des : MVP模式 契约基类
- * author   : master
- * date     : 2018/5/19
- */
+
 public class BaseContract {
     public interface BasePresenter<T extends BaseContract.BaseView> {
 

@@ -10,7 +10,7 @@ import com.cyl.musiclake.R
 
 
 /**
- * Created by cyl on 2018/7/26.
+
  * 向外扩散View，中间白色圆圈不变。四周扩散
  * 1、绘制中间圆圈
  * 2、绘制文字

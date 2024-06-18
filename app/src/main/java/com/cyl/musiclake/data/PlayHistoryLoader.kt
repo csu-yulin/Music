@@ -5,7 +5,6 @@ import com.cyl.musiclake.data.db.DaoLitepal
 import com.cyl.musiclake.bean.Music
 
 /**
- * 作者：yonglong on 2016/11/4 22:30
  */
 object PlayHistoryLoader {
 

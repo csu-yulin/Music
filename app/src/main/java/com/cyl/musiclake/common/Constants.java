@@ -1,7 +1,6 @@
 package com.cyl.musiclake.common;
 
 /**
- * Created by yonglong on 2016/5/8.
  */
 public class Constants {
     //歌曲操作区分

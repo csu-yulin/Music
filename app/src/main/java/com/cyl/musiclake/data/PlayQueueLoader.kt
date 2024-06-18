@@ -6,7 +6,6 @@ import com.cyl.musiclake.bean.Music
 import org.jetbrains.anko.doAsync
 
 /**
- * 作者：yonglong on 2016/11/4 22:30
  */
 
 object PlayQueueLoader {

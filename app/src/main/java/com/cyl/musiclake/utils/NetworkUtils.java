@@ -7,11 +7,7 @@ import android.telephony.TelephonyManager;
 
 import com.cyl.musiclake.MusicApp;
 
-/**
- * 作者：yonglong on 2016/9/9 02:01
- * 邮箱：643872807@qq.com
- * 版本：2.5
- */
+
 public class NetworkUtils {
     /**
      * 获取活动网络信息

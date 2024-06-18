@@ -117,7 +117,7 @@
             <!--android:layout_gravity="bottom"-->
             <!--android:background="#334A90E2"-->
             <!--android:padding="2dp"-->
-            <!--android:text="分享于2016-7-2"-->
+
             <!--android:textColor="@color/setting_blue" />-->
 
         </RelativeLayout>

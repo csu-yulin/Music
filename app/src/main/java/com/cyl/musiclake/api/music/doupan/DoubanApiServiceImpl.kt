@@ -6,8 +6,6 @@ import io.reactivex.ObservableOnSubscribe
 import java.util.*
 
 /**
- * Author   : D22434
- * version  : 2018/3/30
  * function :
  */
 

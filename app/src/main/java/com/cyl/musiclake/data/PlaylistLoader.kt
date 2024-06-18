@@ -6,7 +6,6 @@ import com.cyl.musiclake.data.db.DaoLitepal
 import com.cyl.musiclake.common.Constants
 
 /**
- * 作者：yonglong on 2016/11/6 17:02
  * 本地歌单操作类
  */
 object PlaylistLoader {

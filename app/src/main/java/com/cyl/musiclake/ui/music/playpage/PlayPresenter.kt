@@ -12,7 +12,7 @@ import javax.inject.Inject
 
 
 /**
- * Created by hefuyi on 2016/11/8.
+ *
  */
 
 class PlayPresenter @Inject

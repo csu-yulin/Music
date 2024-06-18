@@ -15,8 +15,6 @@ import kotlinx.android.synthetic.main.all_category_dialog.*
 
 /**
  * Des    : 精品歌单分类选择列表
- * Author : master.
- * Date   : 2018/8/23 .
  */
 class TopPlaylistCatFragment : BottomSheetDialogFragment() {
     private var rootView: View? = null

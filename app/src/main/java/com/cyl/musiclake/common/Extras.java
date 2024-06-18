@@ -2,8 +2,6 @@ package com.cyl.musiclake.common;
 
 
 /**
- * 作者：yonglong on 2016/9/24 10:57
- * 邮箱：643872807@qq.com
  * 版本：2.5
  * 标志类
  */

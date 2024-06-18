@@ -9,7 +9,6 @@ import dagger.Component;
 
 
 /**
- * Created by lw on 2017/1/19.
  */
 @PerApp
 @Component(modules = ApplicationModule.class)

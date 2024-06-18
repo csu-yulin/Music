@@ -15,7 +15,6 @@ import io.reactivex.Observable
 import io.reactivex.ObservableOnSubscribe
 
 /**
- * Created by yonglong on 2018/1/21.
  */
 
 object BaiduApiServiceImpl {

@@ -3,7 +3,6 @@ package com.cyl.musiclake.api.music.baidu;
 import junit.framework.TestCase;
 
 /**
- * Created by yonglong on 2018/1/22.
  */
 public class BaiduApiServiceImplTest extends TestCase {
 

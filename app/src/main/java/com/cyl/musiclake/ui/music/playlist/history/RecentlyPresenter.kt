@@ -12,7 +12,7 @@ import io.reactivex.disposables.Disposable
 import io.reactivex.schedulers.Schedulers
 
 /**
- * Created by yonglong on 2018/1/7.
+ *
  */
 
 class RecentlyPresenter @Inject

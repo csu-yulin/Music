@@ -10,7 +10,7 @@ import org.jetbrains.anko.uiThread
 import javax.inject.Inject
 
 /**
- * Created by D22434 on 2018/1/8.
+ *
  */
 
 class FolderSongPresenter @Inject

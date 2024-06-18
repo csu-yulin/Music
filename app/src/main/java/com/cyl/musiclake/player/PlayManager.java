@@ -17,7 +17,6 @@ import java.util.List;
 import java.util.WeakHashMap;
 
 /**
- * Created by D22434 on 2017/9/20.
  */
 
 public class PlayManager {

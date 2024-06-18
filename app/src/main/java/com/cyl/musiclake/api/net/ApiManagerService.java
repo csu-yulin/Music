@@ -15,7 +15,6 @@ import retrofit2.http.Streaming;
 import retrofit2.http.Url;
 
 /**
- * Created by yonglong on 2017/9/11.
  */
 
 public interface ApiManagerService {

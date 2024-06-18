@@ -24,7 +24,7 @@ import javax.inject.Inject
 
 
 /**
- * Created by yonglong on 2018/1/7.
+ *
  */
 
 class PlaylistDetailPresenter @Inject

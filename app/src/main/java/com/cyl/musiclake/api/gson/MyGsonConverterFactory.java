@@ -13,7 +13,6 @@ import retrofit2.Converter;
 import retrofit2.Retrofit;
 
 /**
- * Created by D22434 on 2018/1/16.
  */
 /**
  * A {@linkplain Converter.Factory converter} which uses Gson for JSON.

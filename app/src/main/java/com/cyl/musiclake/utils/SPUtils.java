@@ -10,12 +10,7 @@ import com.cyl.musiclake.R;
 
 import java.util.Set;
 
-/**
- * 作者：yonglong on 2016/8/12 16:03
- * 邮箱：643872807@qq.com
- * 版本：2.5
- * 内部存儲工具類
- */
+
 public class SPUtils {
     /**
      * 第一次进入应用

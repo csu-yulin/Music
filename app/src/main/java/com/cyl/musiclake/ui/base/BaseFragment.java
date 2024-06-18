@@ -34,11 +34,7 @@ import butterknife.Unbinder;
 
 import static com.cyl.musiclake.utils.AnimationUtils.animateView;
 
-/**
- * 作者：YongLong on 2016/8/8 16:58
- * 邮箱：643872807@qq.com
- * 版本：2.5
- */
+
 public abstract class BaseFragment<T extends BaseContract.BasePresenter> extends RxFragment implements BaseContract.BaseView {
     @Nullable
     @Inject

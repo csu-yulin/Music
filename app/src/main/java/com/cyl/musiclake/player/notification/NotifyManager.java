@@ -20,7 +20,6 @@ import static com.cyl.musiclake.player.MusicPlayerService.ACTION_PREV;
 import static com.liulishuo.filedownloader.util.DownloadServiceNotConnectedHelper.stopForeground;
 
 /**
- * Created by master on 2018/5/14.
  * 通知栏管理类
  */
 

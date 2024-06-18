@@ -8,7 +8,7 @@ import com.cyl.musiclake.utils.SPUtils
 import org.greenrobot.eventbus.EventBus
 
 /**
- * Created by master on 2018/5/14.
+ *
  */
 
 object PlayQueueManager {

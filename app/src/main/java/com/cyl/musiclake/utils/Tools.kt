@@ -14,8 +14,6 @@ import com.cyl.musiclake.bean.Music
 
 /**
  * Des    : 分享、反馈工具类
- * Author : master.
- * Date   : 2018/5/19 .
  */
 object Tools {
 

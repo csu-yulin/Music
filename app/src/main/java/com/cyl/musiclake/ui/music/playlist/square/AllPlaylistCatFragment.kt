@@ -22,8 +22,7 @@ import org.jetbrains.anko.support.v4.startActivity
 
 /**
  * Des    : 精选歌单集分类选择列表
- * Author : master.
- * Date   : 2018/8/23 .
+
  */
 class AllPlaylistCatFragment : androidx.fragment.app.DialogFragment(), ChannelView.OnChannelListener {
     private var rootView: View? = null

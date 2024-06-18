@@ -25,8 +25,6 @@ import org.json.JSONArray
 
 /**
  * Des    : 实时在线socket统计
- * Author : master.
- * Date   : 2018/9/10 .
  */
 object SocketManager {
     val MESSAGE_BROADCAST = "broadcast"

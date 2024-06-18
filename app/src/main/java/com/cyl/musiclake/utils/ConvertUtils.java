@@ -14,7 +14,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * Created by D22434 on 2018/1/17.
  */
 
 public class ConvertUtils {

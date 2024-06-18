@@ -27,7 +27,6 @@ import org.jetbrains.anko.doAsync
 import org.jetbrains.anko.uiThread
 
 /**
- * Created by master on 2018/4/8.
  * 封装添加到在线歌单功能
  */
 

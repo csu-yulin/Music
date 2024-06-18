@@ -21,9 +21,6 @@ import com.google.android.exoplayer2.ui.PlayerView
 import de.hdodenhof.circleimageview.CircleImageView
 
 /**
- * 作者：yonglong on 2016/8/10 21:36
- * 邮箱：643872807@qq.com
- * 版本：2.5
  */
 class TopMvListAdapter(list: MutableList<MvInfoDetail>) : BaseQuickAdapter<MvInfoDetail, BaseViewHolder>(R.layout.item_mv_list, list) {
 

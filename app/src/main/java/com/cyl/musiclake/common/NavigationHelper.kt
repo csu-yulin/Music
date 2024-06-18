@@ -38,7 +38,6 @@ import org.greenrobot.eventbus.EventBus
 import java.io.File
 
 /**
- * Created by yonglong on 2016/12/24.
  * 导航工具类
  */
 

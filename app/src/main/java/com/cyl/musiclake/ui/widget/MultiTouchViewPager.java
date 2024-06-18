@@ -10,7 +10,6 @@ import androidx.viewpager.widget.ViewPager;
 import java.lang.reflect.Field;
 
 /**
- * 作者：yonglong on 2016/11/6 16:41
  * function : 自定义 ViewPager解决LrcView 滑动时造成的多点触碰异常
  */
 

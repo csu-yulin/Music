@@ -12,9 +12,6 @@ import org.jaudiotagger.tag.id3.framebody.FrameBodyTPE1
 import java.io.IOException
 
 /**
- * Des    :
- * Author : master.
- * Date   : 2018/8/26 .
  */
 object Mp3Util {
 

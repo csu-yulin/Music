@@ -58,12 +58,7 @@ import butterknife.ButterKnife;
 import butterknife.Unbinder;
 import io.reactivex.disposables.Disposable;
 
-/**
- * 基类
- *
- * @author yonglong
- * @date 2016/8/3
- */
+
 public abstract class BaseActivity<T extends BaseContract.BasePresenter> extends RxAppCompatActivity implements ServiceConnection, BaseContract.BaseView {
 
     @Nullable

@@ -26,9 +26,6 @@ import java.util.Comparator;
 import java.util.List;
 
 /**
- * 作者：yonglong on 2016/9/9 04:02
- * 邮箱：643872807@qq.com
- * 版本：2.5
  */
 public class FileUtils {
     /**

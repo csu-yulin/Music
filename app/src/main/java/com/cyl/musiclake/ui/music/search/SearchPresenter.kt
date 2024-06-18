@@ -21,7 +21,7 @@ import org.jetbrains.anko.uiThread
 import javax.inject.Inject
 
 /**
- * Created by yonglong on 2018/1/6.
+ *
  */
 
 class SearchPresenter @Inject

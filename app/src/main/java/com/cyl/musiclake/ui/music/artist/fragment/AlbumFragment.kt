@@ -15,10 +15,6 @@ import kotlinx.android.synthetic.main.fragment_recyclerview_notoolbar.*
 import java.util.*
 
 /**
- * 作者：yonglong on 2016/8/15 19:54
- * 邮箱：643872807@qq.com
- * 版本：2.5
- * 专辑
  */
 class AlbumFragment : BaseFragment<AlbumPresenter>(), AlbumsContract.View {
 

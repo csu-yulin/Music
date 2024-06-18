@@ -9,9 +9,7 @@ import androidx.viewpager.widget.PagerAdapter;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by D22434 on 2018/1/4.
- */
+
 
 public class PageAdapter extends FragmentStatePagerAdapter {
 

@@ -8,7 +8,7 @@ import android.provider.Settings
 import android.util.Log
 
 /**
- * Created by cyl on 2018/6/29.
+ *
  */
 object FloatUtil {
     fun applyOrShowFloatWindow(context: Context) {

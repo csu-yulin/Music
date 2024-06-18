@@ -18,9 +18,6 @@ import java.util.List;
 /**
  * android系统工具类
  * 主要功能判断android系统的版本、判断后台Service是否运行
- * 作者：yonglong on 2016/8/12 16:45
- * 邮箱：643872807@qq.com
- * 版本：2.5
  */
 public class SystemUtils {
     //判断是否是android 6.0

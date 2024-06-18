@@ -26,9 +26,6 @@ import com.rtugeek.android.colorseekbar.ColorSeekBar
 import org.jetbrains.anko.support.v4.toast
 
 /**
- * 作者：yonglong on 2016/9/14 15:24
- * 邮箱：643872807@qq.com
- * 版本：2.5
  * 歌词搜索
  */
 class MusicLyricDialog : androidx.fragment.app.DialogFragment() {

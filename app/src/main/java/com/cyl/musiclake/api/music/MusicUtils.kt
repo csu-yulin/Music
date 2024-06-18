@@ -11,7 +11,6 @@ import com.cyl.musiclake.common.Constants
 import com.cyl.musiclake.utils.LogUtil
 
 /**
- * Created by master on 2018/4/7.
  */
 
 object MusicUtils {

@@ -10,8 +10,6 @@ import android.view.View;
 import com.cyl.musiclake.R;
 
 /**
- * 作者：yonglong on 2016/11/6 16:41
- *
  *
  */
 

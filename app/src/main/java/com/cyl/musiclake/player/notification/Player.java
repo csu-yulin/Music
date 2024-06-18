@@ -10,7 +10,6 @@ import com.cyl.musiclake.utils.LogUtil;
 import java.io.IOException;
 
 /**
- * Created by master on 2018/5/14.
  */
 
 public class Player implements MediaPlayer.OnErrorListener,

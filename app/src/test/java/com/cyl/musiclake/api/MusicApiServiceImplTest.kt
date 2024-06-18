@@ -10,9 +10,6 @@ import org.junit.Test
 import org.junit.Assert.*
 
 /**
- * Des    :
- * Author : master.
- * Date   : 2018/9/9 .
  */
 class MusicApiServiceImplTest {
 

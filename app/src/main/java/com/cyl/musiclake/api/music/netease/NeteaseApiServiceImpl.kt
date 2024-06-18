@@ -12,7 +12,6 @@ import io.reactivex.Observable
 import io.reactivex.ObservableOnSubscribe
 
 /**
- * Created by D22434 on 2018/1/5.
  */
 
 object NeteaseApiServiceImpl {

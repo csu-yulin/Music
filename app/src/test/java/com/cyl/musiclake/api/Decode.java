@@ -6,7 +6,6 @@ import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
 
 /**
- * Created by yonglong on 2018/1/15.
  */
 
 public class Decode extends TestCase {

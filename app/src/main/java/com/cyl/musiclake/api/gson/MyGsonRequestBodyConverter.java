@@ -15,7 +15,6 @@ import okio.Buffer;
 import retrofit2.Converter;
 
 /**
- * Created by D22434 on 2018/1/16.
  */
 
 public class MyGsonRequestBodyConverter<T> implements Converter<T, RequestBody> {

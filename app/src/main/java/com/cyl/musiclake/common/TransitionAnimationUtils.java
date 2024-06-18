@@ -11,10 +11,7 @@ import android.view.View;
 import android.view.animation.AccelerateInterpolator;
 import android.widget.ImageView;
 
-/**
- * Author   : D22434
- * version  : 2018/1/22
- * function : 图片切换动画
+/*** function : 图片切换动画
  */
 
 public class TransitionAnimationUtils {

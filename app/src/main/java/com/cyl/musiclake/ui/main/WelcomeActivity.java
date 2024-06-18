@@ -22,9 +22,7 @@ import com.tencent.tauth.Tencent;
 
 import butterknife.BindView;
 
-/**
- * Created by 永龙 on 2016/3/19.
- */
+
 public class WelcomeActivity extends BaseActivity {
 
     @BindView(R.id.wel_container)

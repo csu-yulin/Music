@@ -18,9 +18,6 @@ import com.cyl.musiclake.utils.CoverLoader
 import kotlinx.android.synthetic.main.frag_artist_detail.*
 
 /**
- * 作者：yonglong on 2016/8/15 19:54
- * 邮箱：643872807@qq.com
- * 版本：2.5
  * 歌单详情页
  */
 class ArtistDetailActivity : BaseActivity<ArtistDetailPresenter>(), ArtistDetailContract.View {

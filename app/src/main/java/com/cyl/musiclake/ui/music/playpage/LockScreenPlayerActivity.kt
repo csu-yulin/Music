@@ -20,8 +20,6 @@ import java.util.*
 
 /**
  * Des    : 播放界面
- * Author : master.
- * Date   : 2018/5/19 .
  */
 class LockScreenPlayerActivity : BaseActivity<PlayPresenter>(), PlayContract.View {
 

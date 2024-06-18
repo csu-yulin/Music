@@ -27,9 +27,6 @@ import com.zhouwei.mzbanner.holder.MZViewHolder
 import org.jetbrains.anko.startActivity
 
 /**
- * 作者：yonglong on 2016/8/10 21:36
- * 邮箱：643872807@qq.com
- * 版本：2.5
  */
 class TopListAdapter(list: MutableList<Playlist>) : BaseQuickAdapter<Playlist, BaseViewHolder>(R.layout.item_top_list, list) {
 

@@ -17,9 +17,7 @@ import com.cyl.musiclake.ui.theme.ThemeStore
 import com.cyl.musiclake.utils.*
 
 /**
- * Author   : D22434
- * version  : 2018/3/8
- * function :
+
  */
 class SettingsFragment : PreferenceFragmentCompat(), Preference.OnPreferenceClickListener {
 

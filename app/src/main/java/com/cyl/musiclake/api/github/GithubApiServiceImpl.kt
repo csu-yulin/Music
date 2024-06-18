@@ -6,7 +6,7 @@ import io.reactivex.Observable
 import retrofit2.Response
 
 /**
- * Created by master on 2018/4/5.
+ *
  */
 
 object GithubApiServiceImpl {

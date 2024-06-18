@@ -9,8 +9,7 @@ import java.lang.ref.WeakReference;
 import java.util.List;
 
 /**
- * Author   : D22434
- * version  : 2018/2/7
+
  * function :
  */
 

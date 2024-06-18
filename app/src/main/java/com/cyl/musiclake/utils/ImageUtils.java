@@ -32,11 +32,7 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-/**
- * 作者：yonglong on 2016/8/24 20:14
- * 邮箱：643872807@qq.com
- * 版本：2.5
- */
+
 public class ImageUtils {
 
     public static Uri getAlbumArtUri(long paramInt) {

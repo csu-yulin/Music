@@ -13,11 +13,7 @@ import org.jetbrains.anko.doAsync
 import org.jetbrains.anko.uiThread
 import javax.inject.Inject
 
-/**
- * Des    :
- * Author : master.
- * Date   : 2018/9/27 .
- */
+
 class ChatPresenter @Inject
 constructor() : BasePresenter<ChatContract.View>(), ChatContract.Presenter {
 

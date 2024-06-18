@@ -30,7 +30,6 @@ import retrofit2.Response
 import javax.inject.Inject
 
 /**
- * Created by D22434 on 2018/1/3.
  */
 
 class LoginPresenter @Inject

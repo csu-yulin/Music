@@ -9,9 +9,7 @@ import com.cyl.musiclake.utils.FileUtils;
 import java.io.File;
 
 /**
- * Author   : D22434
- * version  : 2018/2/5
- * function :
+
  */
 
 public class ExternalCacheDiskFactory extends DiskLruCacheFactory {

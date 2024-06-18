@@ -15,7 +15,6 @@ import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.SecretKeySpec;
 
 /**
- * Created by master on 2018/3/19.
  */
 public class NeteaseApiServiceImplTest {
     // 加密

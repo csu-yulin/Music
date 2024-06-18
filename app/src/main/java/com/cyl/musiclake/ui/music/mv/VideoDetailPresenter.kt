@@ -11,9 +11,6 @@ import com.cyl.musiclake.bean.VideoInfoBean
 import javax.inject.Inject
 
 /**
- * Des    :
- * Author : master.
- * Date   : 2018/5/20 .
  */
 class VideoDetailPresenter @Inject
 constructor() : BasePresenter<VideoDetailContract.View>(), VideoDetailContract.Presenter {

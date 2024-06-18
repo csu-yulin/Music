@@ -22,7 +22,7 @@ import com.google.android.exoplayer2.util.Util
 import java.io.IOException
 
 /**
- * Created by cyl on 2018/5/11.
+ *
  */
 
 class MusicExoPlayer(var context: Context) : BasePlayer(), Player.EventListener {

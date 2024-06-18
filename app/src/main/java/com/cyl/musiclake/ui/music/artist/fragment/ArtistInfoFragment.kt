@@ -8,7 +8,7 @@ import com.cyl.musiclake.ui.music.artist.presenter.ArtistInfoPresenter
 import kotlinx.android.synthetic.main.frag_artist_info.*
 
 /**
- * Created by yonglong on 2016/11/30.
+ *
  */
 
 class ArtistInfoFragment : BaseFragment<ArtistInfoPresenter>(), ArtistInfoContract.View {

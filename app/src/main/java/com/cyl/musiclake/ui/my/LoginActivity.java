@@ -30,9 +30,6 @@ import butterknife.BindView;
 import butterknife.OnClick;
 
 /**
- * 作者：yonglong on 2016/8/11 18:17
- * 邮箱：643872807@qq.com
- * 版本：2.5
  */
 public class LoginActivity extends BaseActivity<LoginPresenter> implements LoginContract.View {
 

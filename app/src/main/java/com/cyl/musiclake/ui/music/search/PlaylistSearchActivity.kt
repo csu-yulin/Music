@@ -23,9 +23,6 @@ import kotlinx.android.synthetic.main.activity_playlist_search.*
 import kotlinx.android.synthetic.main.toolbar_search_layout.*
 
 /**
- * 作者：yonglong on 2016/9/15 12:32
- * 邮箱：643872807@qq.com
- * 版本：2.5
  */
 class PlaylistSearchActivity : BaseActivity<BasePresenter<BaseContract.BaseView>>() {
     /**

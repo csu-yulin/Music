@@ -8,7 +8,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by D22434 on 2018/1/5.
  */
 public class ApiManagerTest extends TestCase {
 

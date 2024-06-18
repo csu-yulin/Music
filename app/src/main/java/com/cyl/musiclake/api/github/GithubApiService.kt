@@ -9,7 +9,7 @@ import retrofit2.http.POST
 import retrofit2.http.Query
 
 /**
- * Created by master on 2019/6/28.
+ *
  * des :github后台
  *
  */

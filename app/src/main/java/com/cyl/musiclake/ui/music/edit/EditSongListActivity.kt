@@ -14,8 +14,6 @@ import kotlinx.android.synthetic.main.activity_song_edit.*
 
 /**
  * Des    : 歌曲批量操作
- * Author : master.
- * Date   : 2018/9/2 .
  */
 class EditSongListActivity : BaseActivity<EditSongListPresenter>() {
 

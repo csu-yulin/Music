@@ -16,7 +16,7 @@ import com.cyl.musiclake.ui.music.discover.TopPlaylistAdapter
 import kotlinx.android.synthetic.main.frag_top_playlist.*
 
 /**
- * Created by Monkey on 2015/6/29.
+ *
  * 精品歌单列表
  */
 class TopPlaylistFragment : BaseFragment<PlaylistPresenter>(), PlaylistContract.View {

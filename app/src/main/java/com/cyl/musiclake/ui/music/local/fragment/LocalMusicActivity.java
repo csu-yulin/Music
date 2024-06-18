@@ -8,7 +8,6 @@ import com.cyl.musiclake.ui.base.BaseActivity;
 import com.cyl.musiclake.common.NavigationHelper;
 
 /**
- * Created by Monkey on 2015/6/29.
  */
 public class LocalMusicActivity extends BaseActivity {
 

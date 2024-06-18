@@ -7,11 +7,7 @@ import com.cyl.musiclake.api.net.RequestCallBack
 import org.litepal.LitePal
 
 
-/**
- * Des    :
- * Author : master.
- * Date   : 2018/9/27 .
- */
+
 class ChatModel {
 
 

@@ -83,7 +83,7 @@
                         app:layout_constraintBottom_toBottomOf="@+id/coverIv"
                         app:layout_constraintStart_toStartOf="@+id/descTv"
                         app:layout_constraintTop_toBottomOf="@+id/descTv"
-                        tools:text="最近更新：2016-01-03" />
+                        tools:text="最近更新：" />
 
                 </androidx.constraintlayout.widget.ConstraintLayout>
 

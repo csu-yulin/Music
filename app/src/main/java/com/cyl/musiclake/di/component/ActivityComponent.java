@@ -27,7 +27,6 @@ import org.jetbrains.annotations.NotNull;
 import dagger.Component;
 
 /**
- * Created by lw on 2017/1/19.
  */
 @PerActivity
 @Component(dependencies = ApplicationComponent.class, modules = ActivityModule.class)

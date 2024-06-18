@@ -21,10 +21,6 @@ import com.pierfrancescosoffritti.androidyoutubeplayer.core.player.utils.YouTube
 import com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView;
 
 /**
- * 作者：yonglong
- * 包名：com.cyl.musiclake.ui.youtube
- * 时间：2019/7/15 11:45
- * 描述：
  */
 public class CustomPlayerUiController extends AbstractYouTubePlayerListener implements YouTubePlayerFullScreenListener {
 

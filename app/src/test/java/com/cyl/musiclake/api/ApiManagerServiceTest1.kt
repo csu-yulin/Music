@@ -4,7 +4,7 @@ import org.junit.Test
 
 
 /**
- * Created by yonglong on 2018/1/15.
+ *
  */
 class ApiManagerServiceTest1 {
     @Test

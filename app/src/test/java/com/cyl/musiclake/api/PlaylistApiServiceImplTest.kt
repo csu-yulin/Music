@@ -4,9 +4,6 @@ import com.cyl.musiclake.api.playlist.PlaylistApiServiceImpl
 import org.junit.Test
 
 /**
- * Des    :
- * Author : master.
- * Date   : 2018/5/26 .
  */
 class PlaylistApiServiceImplTest {
 

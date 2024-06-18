@@ -36,9 +36,6 @@
 //import java.text.DecimalFormat;
 //
 ///**
-// * Author   : cyl
-// * version  : 2018/01/17
-// * function : 歌词解析显示
 // */
 //
 //public class LyricView extends View {

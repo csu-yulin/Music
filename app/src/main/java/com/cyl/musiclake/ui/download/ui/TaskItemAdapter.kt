@@ -22,9 +22,6 @@ import com.liulishuo.filedownloader.util.FileDownloadUtils
 
 import java.io.File
 
-/**
- * Created by yonglong on 2018/1/23.
- */
 
 class TaskItemAdapter(private val mContext: Context, var models: List<TasksManagerModel>?) : RecyclerView.Adapter<TaskItemAdapter.TaskItemViewHolder>() {
 

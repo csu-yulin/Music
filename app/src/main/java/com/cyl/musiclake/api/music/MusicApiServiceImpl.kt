@@ -21,7 +21,6 @@ import io.reactivex.Observable.create
 
 /**
  * Author   : D22434
- * version  : 2018/3/9
  * function : 接口数据集中到一个类中管理。
  */
 

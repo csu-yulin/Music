@@ -11,9 +11,7 @@ import com.cyl.musiclake.ui.download.TasksManagerModel
 import kotlinx.android.synthetic.main.fragment_recyclerview_notoolbar.*
 import java.lang.ref.WeakReference
 
-/**
- * Created by yonglong on 2016/11/26.
- */
+
 
 class DownloadManagerFragment : BaseFragment<DownloadPresenter>(), DownloadContract.View {
     private var mAdapter: TaskItemAdapter? = null

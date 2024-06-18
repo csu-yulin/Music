@@ -18,9 +18,6 @@ import kotlinx.android.synthetic.main.fragment_charts.*
 
 /**
  * 功能：在线排行榜
- * 作者：yonglong on 2016/8/11 18:14
- * 邮箱：643872807@qq.com
- * 版本：2.5
  */
 class ChartsDetailFragment : BaseLazyFragment<OnlinePlaylistPresenter>(), OnlinePlaylistContract.View {
     //适配器

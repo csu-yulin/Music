@@ -5,7 +5,7 @@ import androidx.fragment.app.FragmentActivity
 import androidx.viewpager2.adapter.FragmentStateAdapter
 
 /**
- * Created by yonglong on 2015/6/29.
+
  */
 class PlayerPagerAdapter(fm: FragmentActivity, private var mFragments: MutableList<Fragment>) : FragmentStateAdapter(fm) {
 

@@ -9,7 +9,6 @@ import com.cyl.musiclake.utils.LyricUtil
 import io.reactivex.Observable
 
 /**
- * Created by master on 2018/4/30.
  */
 
 object KuGouApiServiceImpl {

@@ -23,7 +23,6 @@ import static com.cyl.musiclake.player.MusicPlayerService.TRACK_PLAY_ERROR;
 import static com.cyl.musiclake.player.MusicPlayerService.TRACK_WENT_TO_NEXT;
 
 /**
- * Created by D22434 on 2018/1/16.
  */
 
 public class MusicPlayerEngine implements MediaPlayer.OnErrorListener,

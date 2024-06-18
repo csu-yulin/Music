@@ -14,9 +14,6 @@ import com.cyl.musiclake.utils.ToastUtils
 import kotlinx.android.synthetic.main.activity_video.*
 
 /**
- * 作者：yonglong on 2016/8/24 10:43
- * 邮箱：643872807@qq.com
- * 版本：2.5
  * 本地视频播放界面
  */
 class VideoPlayerActivity : BaseVideoPlayerActivity() {

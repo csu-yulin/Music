@@ -13,10 +13,7 @@ import com.cyl.musiclake.MusicApp
 import com.cyl.musiclake.R
 
 /**
- * 作者：yonglong
- * 包名：com.cyl.musiclake.player
- * 时间：2019/5/7 23:49
- * 描述：
+
  */
 class UnLockNotify {
     private val mContext: Context = MusicApp.getAppContext()

@@ -19,9 +19,6 @@ import org.jetbrains.anko.support.v4.startActivity
 
 /**
  * 功能：在线排行榜
- * 作者：yonglong on 2016/8/11 18:14
- * 邮箱：643872807@qq.com
- * 版本：2.5
  */
 class VideoListFragment : BaseLazyFragment<MvListPresenter?>(), MvListContract.View {
     private var mOffset = 0

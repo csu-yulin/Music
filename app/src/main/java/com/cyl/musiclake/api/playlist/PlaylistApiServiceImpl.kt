@@ -18,7 +18,7 @@ import io.reactivex.Observable
 import io.reactivex.ObservableOnSubscribe
 
 /**
- * Created by master on 2018/4/5.
+ *
  */
 
 object PlaylistApiServiceImpl {

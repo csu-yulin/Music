@@ -25,9 +25,6 @@ import org.jetbrains.anko.support.v4.startActivity
 
 /**
  * 功能：本地歌曲列表
- * 作者：yonglong on 2016/8/10 20:49
- * 邮箱：643872807@qq.com
- * 版本：2.5
  */
 class YoutubeSearchFragment : BaseLazyFragment<SearchPresenter>(), SearchContract.View {
 

@@ -10,9 +10,6 @@ import com.cyl.musiclake.bean.VideoInfoBean
 import io.reactivex.Observable
 
 /**
- * Des    :
- * Author : master.
- * Date   : 2018/7/8 .
  */
 
 class VideoLoadModel {

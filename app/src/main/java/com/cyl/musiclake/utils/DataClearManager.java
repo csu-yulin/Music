@@ -8,7 +8,6 @@ import java.io.File;
 import java.math.BigDecimal;
 
 /**
- * Created by 永龙 on 2016/4/11.
  */
 public class DataClearManager {
     /**

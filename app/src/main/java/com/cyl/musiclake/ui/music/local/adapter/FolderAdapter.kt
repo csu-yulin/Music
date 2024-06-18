@@ -6,7 +6,7 @@ import com.cyl.musiclake.R
 import com.cyl.musiclake.bean.FolderInfo
 
 /**
- * Created by D22434 on 2018/1/11.
+ *
  */
 
 class FolderAdapter(folderInfos: MutableList<FolderInfo>) : BaseQuickAdapter<FolderInfo, BaseViewHolder>(R.layout.item_folder, folderInfos) {

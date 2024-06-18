@@ -6,11 +6,7 @@ import android.view.WindowManager;
 
 import com.cyl.musiclake.MusicApp;
 
-/**
- * 作者：yonglong on 2016/8/22 19:20
- * 邮箱：643872807@qq.com
- * 版本：2.5
- */
+
 public class SizeUtils {
 
     /**

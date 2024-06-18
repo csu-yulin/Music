@@ -9,7 +9,6 @@ import java.util.List;
 import javax.inject.Inject;
 
 /**
- * Created by yonglong on 2018/1/7.
  */
 
 public class LovePresenter extends BasePresenter<LoveContract.View> implements LoveContract.Presenter {

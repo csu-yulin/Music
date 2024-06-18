@@ -6,8 +6,6 @@ import retrofit2.http.Path
 import retrofit2.http.QueryMap
 
 /**
- * Author   : D22434
- * version  : 2018/3/30
  * function :
  */
 

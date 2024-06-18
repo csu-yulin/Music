@@ -17,7 +17,7 @@ import com.cyl.musiclake.ui.music.discover.TopPlaylistAdapter
 import kotlinx.android.synthetic.main.fragment_recyclerview_notoolbar.*
 
 /**
- * Created by Monkey on 2015/6/29.
+ *
  */
 class PlaylistFragment : BaseLazyFragment<PlaylistPresenter>(), PlaylistContract.View {
 

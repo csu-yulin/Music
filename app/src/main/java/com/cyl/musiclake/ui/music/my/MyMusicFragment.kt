@@ -35,7 +35,6 @@ import org.jetbrains.anko.yesButton
 
 
 /**
- * Created by yonglong on 2015/6/29.
  * 我的 界面
  */
 class MyMusicFragment : BaseFragment<MyMusicPresenter>(), MyMusicContract.View {

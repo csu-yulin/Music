@@ -14,9 +14,6 @@ import com.cyl.musiclake.utils.ToastUtils
 import javax.inject.Inject
 
 /**
- * Des    :
- * Author : master.
- * Date   : 2018/5/20 .
  */
 class DiscoverPresenter @Inject
 constructor() : BasePresenter<DiscoverContract.View>(), DiscoverContract.Presenter {

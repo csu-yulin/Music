@@ -4,9 +4,7 @@ import android.view.View;
 
 import androidx.viewpager2.widget.ViewPager2;
 
-/**
- * Created by yonglong on 2017/11/25.
- */
+/***/
 
 public class DepthPageTransformer implements ViewPager2.PageTransformer {
     private static final float MIN_SCALE = 0.75f;

@@ -62,9 +62,6 @@ import static com.cyl.musiclake.ui.UIUtilsKt.updateLoginToken;
 
 /**
  * 描述 主要的Activity
- *
- * @author yonglong
- * @date 2016/8/3
  */
 public class MainActivity extends BaseActivity implements NavigationView.OnNavigationItemSelectedListener {
 
@@ -253,37 +250,13 @@ public class MainActivity extends BaseActivity implements NavigationView.OnNavig
             case R.id.nav_menu_playQueue:
                 NavigationHelper.INSTANCE.navigatePlayQueue(this);
                 break;
-//            case R.id.nav_bind_wy:
-//                checkBindNeteaseStatus(false, null);
-//                break;
-//            case R.id.nav_menu_import:
-//                mTargetClass = ImportPlaylistActivity.class;
-//                break;
-//            case R.id.nav_menu_setting:
-//                mTargetClass = SettingsActivity.class;
-//                break;
-//            case R.id.nav_menu_online_num:
-//                mTargetClass = ChatActivity.class;
-//                break;
+
             case R.id.nav_menu_count_down:
                 mTargetClass = SleepTimerActivity.class;
                 break;
-//            case R.id.nav_menu_feedback:
-//                Tools.INSTANCE.feeback(this);
-//                break;
-//            case R.id.nav_menu_about:
-//                mTargetClass = AboutActivity.class;
-//                break;
-//            case R.id.nav_menu_test:
-//                mTargetClass = TestActivity.class;
-//                break;
             case R.id.nav_menu_equalizer:
                 NavigationHelper.INSTANCE.navigateToSoundEffect(this);
                 break;
-//            case R.id.nav_menu_exit:
-//                mTargetClass = null;
-//                finish();
-//                break;
         }
         mDrawerLayout.closeDrawers();
         return false;

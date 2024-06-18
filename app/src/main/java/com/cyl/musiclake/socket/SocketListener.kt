@@ -4,9 +4,7 @@ import com.cyl.musiclake.bean.MessageInfoBean
 import com.cyl.musiclake.bean.UserInfoBean
 
 /**
- * Des    :
- * Author : master.
- * Date   : 2018/9/26 .
+
  */
 interface SocketListener {
     /**

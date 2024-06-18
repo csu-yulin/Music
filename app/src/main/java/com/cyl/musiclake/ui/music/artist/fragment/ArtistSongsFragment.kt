@@ -16,10 +16,6 @@ import org.jetbrains.anko.support.v4.startActivity
 import java.util.*
 
 /**
- * 作者：yonglong on 2016/8/15 19:54
- * 邮箱：643872807@qq.com
- * 版本：2.5
- * 专辑
  */
 class ArtistSongsFragment : BaseFragment<ArtistSongsPresenter>(), ArtistSongContract.View {
 

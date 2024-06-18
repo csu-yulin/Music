@@ -17,7 +17,6 @@ import java.lang.ref.WeakReference
 
 
 /**
- * Created by yonglong on 2018/1/23.
  * 下载任务管理、新增缓存下载
  */
 object TasksManager {

@@ -9,9 +9,6 @@ import com.cyl.musiclake.bean.Music
 import com.cyl.musiclake.common.Constants
 
 /**
- * 作者：yonglong on 2016/9/14 15:24
- * 邮箱：643872807@qq.com
- * 版本：2.5
  */
 class AddPlaylistDialog : DialogFragment() {
 

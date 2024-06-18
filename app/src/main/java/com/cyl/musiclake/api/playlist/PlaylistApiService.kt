@@ -12,7 +12,6 @@ import okhttp3.ResponseBody
 import retrofit2.http.*
 
 /**
- * Created by master on 2018/4/5.
  * des :自有后台歌单接口
  *
  */
@@ -37,8 +36,7 @@ interface PlaylistApiService {
 
     /**
      * 获取聊天信息
-     * @param start_dt 开始时间 2018-09-29默认为 2018-09-29 00:00:00
-     * @param end_dt 结束时间 '2018-09-29 23:59:59'
+
      * @return
      */
     @GET("chat-history")

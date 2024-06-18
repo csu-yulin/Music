@@ -7,9 +7,6 @@ import com.cyl.musiclake.api.net.RequestCallBack
 import javax.inject.Inject
 
 /**
- * Des    :
- * Author : master.
- * Date   : 2018/5/20 .
  */
 class MvListPresenter @Inject
 constructor() : BasePresenter<MvListContract.View>(), MvListContract.Presenter {

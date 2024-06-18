@@ -12,9 +12,6 @@ import com.cyl.musiclake.bean.Artist
 import com.cyl.musiclake.utils.CoverLoader
 
 /**
- * 作者：yonglong on 2016/8/10 21:36
- * 邮箱：643872807@qq.com
- * 版本：2.5
  */
 class TopArtistListAdapter(list: MutableList<Artist>) : BaseQuickAdapter<Artist, BaseViewHolder>(R.layout.item_discover_artist, list) {
 

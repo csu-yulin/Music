@@ -13,9 +13,6 @@ import com.cyl.musiclake.utils.ToastUtils
 import kotlinx.android.synthetic.main.activity_music_edit.*
 
 /**
- * Des    :
- * Author : master.
- * Date   : 2018/8/26 .
  */
 class EditMusicActivity : BaseActivity<BasePresenter<BaseContract.BaseView>>() {
 

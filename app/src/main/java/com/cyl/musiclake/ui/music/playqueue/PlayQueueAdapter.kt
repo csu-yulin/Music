@@ -17,7 +17,6 @@ import com.cyl.musiclake.utils.ToastUtils
 import org.jetbrains.anko.dip
 
 /**
- * Created by D22434 on 2017/9/26.ß
  */
 
 class PlayQueueAdapter(musicList: MutableList<Music>) : BaseQuickAdapter<Music, BaseViewHolder>(R.layout.item_play_queue, musicList), DraggableModule {

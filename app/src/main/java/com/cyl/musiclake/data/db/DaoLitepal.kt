@@ -8,7 +8,6 @@ import org.litepal.LitePal
 
 /**
  * 数据库操作类
- * Created by master on 2018/4/26.
  */
 
 object DaoLitepal {
